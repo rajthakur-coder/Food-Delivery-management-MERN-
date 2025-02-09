@@ -32,7 +32,7 @@ function Order({url}) {
 
   useEffect(()=>{
     fetchAllOrders();
-  },[])
+  },[url])
 
   return (
     <div className='order add'>
