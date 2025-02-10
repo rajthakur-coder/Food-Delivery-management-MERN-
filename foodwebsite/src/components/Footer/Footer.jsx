@@ -27,7 +27,7 @@ function Footer() {
         <div className="footer-content-right">
             <h2>GET IN TOUCH</h2>
             <ul>
-                <li>+91 8827788763</li>
+                <li>+91 8820778804</li>
                 <li>contact@tomato.com</li>
             </ul>
         </div>
